@@ -4,7 +4,7 @@ const fs = require('fs');
 
 (async () => {
   const htmlPath = path.resolve(__dirname, 'index.html');
-  const pdfPath = path.resolve(__dirname, 'index.pdf');
+  const pdfPath = path.resolve(__dirname, 'resume.pdf');
 
   if (!fs.existsSync(htmlPath)) {
     console.error('index.html not found!');

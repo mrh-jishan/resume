@@ -1,5 +1,4 @@
 node_modules/
-index.pdf
 .env
 .DS_Store
 *.log
