@@ -2,8 +2,8 @@
 
 **Senior Full-Stack Engineer**
 
-Email: robiul.hassan12102@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/rhsn1/) | [GitHub](https://github.com/mrh-jishan) | [Portfolio](https://mrh-jishan.github.io/mrh-jishan)
+[robiul.hassan12102@gmail.com](mailto:robiul.hassan12102@gmail.com)    
+[linkedin.com/in/rhsn1](https://www.linkedin.com/in/rhsn1/) | [github.com/mrh-jishan](https://github.com/mrh-jishan) | [mrh-jishan.github.io/mrh-jishan](https://mrh-jishan.github.io/mrh-jishan)
 
 ---
 
