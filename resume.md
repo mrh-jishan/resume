@@ -1,7 +1,3 @@
-# Resume
-
-<!-- ...existing code from index.html will be converted to markdown... -->
-
 # Robiul Hassan
 
 **Senior Full-Stack Engineer**
