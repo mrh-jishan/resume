@@ -5,10 +5,12 @@
   "main": "html-to-pdf.js",
   "scripts": {
     "start": "node server.js",
-    "pdf": "node html-to-pdf.js"
+    "pdf": "node html-to-pdf.js",
+    "mdpdf": "node md-to-pdf.js"
   },
   "dependencies": {
     "express": "^5.1.0",
-     "puppeteer": "^24.10.2"
+    "puppeteer": "^24.10.2",
+    "md-to-pdf": "^5.1.0"
   }
 }
